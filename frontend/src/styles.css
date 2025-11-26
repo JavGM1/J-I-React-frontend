@@ -156,8 +156,8 @@ main {
 
 @media (min-width: 1360px) {
   .search-input {
-    min-width: 800px;
-    max-width: 1400px;
+    min-width: 600px;
+    max-width: 1000px;
   }
 }
 
